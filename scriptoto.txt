@@ -1,0 +1,6 @@
+D:\xampp\php\php.exe D:\xampp\htdocs\k3pg_sp\index.php proses proses_margin_ss2
+D:\xampp\php\php.exe D:\xampp\htdocs\k3pg_sp\index.php proses proses_margin_ss1
+D:\xampp\php\php.exe D:\xampp\htdocs\k3pg_sp\index.php proses proses_potga_ss1
+D:\xampp\php\php.exe D:\xampp\htdocs\k3pg_sp\index.php proses proses_saldo_simp_tahunan
+
+D:\xampp\php\php.exe D:\xampp\htdocs\k3pg_anggota\index.php anggota proses_sisa_plafon
